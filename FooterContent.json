@@ -1,0 +1,52 @@
+[
+    {
+      "items": [
+        {
+          "ariaLabel": "EXPERTISE",
+          "value": "EXPERTISE",
+          "link": "https://bctsoftware.com/nl/expertise/"
+        },
+        {
+          "ariaLabel": "PRODUCTEN",
+          "value": "PRODUCTEN",
+          "link": "https://bctsoftware.com/nl/producten/"
+        },
+        {
+          "ariaLabel": "PRAKTIJK",
+          "value": "PRAKTIJK",
+          "link": "https://bctsoftware.com/nl/praktijk/"
+        },
+        {
+          "ariaLabel": "ACTUEEL",
+          "value": "ACTUEEL",
+          "link": "https://bctsoftware.com/nl/actueel/"
+    
+        },
+        {
+          "ariaLabel": "OVER BCT",
+          "value": "OVER BCT",
+          "link": "https://bctsoftware.com/nl/wij-zijn-bct/"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "ariaLabel": "werken bij",
+          "value": "werken bij",
+          "link": "https://bctsoftware.com/nl/werken-bij-bct/"
+        },
+        {
+          "ariaLabel": "contact",
+          "value": "contact",
+          "link": "https://bctsoftware.com/nl/contact-opnemen/"
+        },
+        {
+          "ariaLabel": "nieuwsbrief",
+          "value": "nieuwsbrief",
+          "link": "https://bctsoftware.com/nl/inschrijven-voor-nieuwsbrieven/"
+        }
+      ]
+    }
+  ]
+  
